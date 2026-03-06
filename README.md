@@ -4,7 +4,7 @@ Una landing page moderna e reattiva dedicata alla Ducati Panigale V4. Questo pro
 
 ## 🚀 Anteprima Live
 Puoi vedere il sito funzionante qui:
-[LINK_DEL_TUO_SITO_GITHUB_PAGES]
+https://claudiaffont.github.io/ducati-panigale-v4/
 
 ## 🛠 Tecnologie Utilizzate
 * **HTML5**: Struttura semantica del sito.
